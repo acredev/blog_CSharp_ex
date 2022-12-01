@@ -1,0 +1,10 @@
+C:\Users\m_fil\Desktop\SMTPEMail\SMTPEMail\bin\Debug\SMTPEMail.exe.config
+C:\Users\m_fil\Desktop\SMTPEMail\SMTPEMail\bin\Debug\SMTPEMail.exe
+C:\Users\m_fil\Desktop\SMTPEMail\SMTPEMail\bin\Debug\SMTPEMail.pdb
+C:\Users\m_fil\Desktop\SMTPEMail\SMTPEMail\obj\Debug\SMTPEMail.csproj.AssemblyReference.cache
+C:\Users\m_fil\Desktop\SMTPEMail\SMTPEMail\obj\Debug\SMTPEMail.Form1.resources
+C:\Users\m_fil\Desktop\SMTPEMail\SMTPEMail\obj\Debug\SMTPEMail.Properties.Resources.resources
+C:\Users\m_fil\Desktop\SMTPEMail\SMTPEMail\obj\Debug\SMTPEMail.csproj.GenerateResource.cache
+C:\Users\m_fil\Desktop\SMTPEMail\SMTPEMail\obj\Debug\SMTPEMail.csproj.CoreCompileInputs.cache
+C:\Users\m_fil\Desktop\SMTPEMail\SMTPEMail\obj\Debug\SMTPEMail.exe
+C:\Users\m_fil\Desktop\SMTPEMail\SMTPEMail\obj\Debug\SMTPEMail.pdb

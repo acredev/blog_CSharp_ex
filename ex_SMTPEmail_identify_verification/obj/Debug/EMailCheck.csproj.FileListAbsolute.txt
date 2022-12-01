@@ -1,0 +1,10 @@
+C:\Users\m_fil\Desktop\EMailCheck\bin\Debug\EMailCheck.exe.config
+C:\Users\m_fil\Desktop\EMailCheck\bin\Debug\EMailCheck.exe
+C:\Users\m_fil\Desktop\EMailCheck\bin\Debug\EMailCheck.pdb
+C:\Users\m_fil\Desktop\EMailCheck\obj\Debug\EMailCheck.csproj.AssemblyReference.cache
+C:\Users\m_fil\Desktop\EMailCheck\obj\Debug\EMailCheck.Form1.resources
+C:\Users\m_fil\Desktop\EMailCheck\obj\Debug\EMailCheck.Properties.Resources.resources
+C:\Users\m_fil\Desktop\EMailCheck\obj\Debug\EMailCheck.csproj.GenerateResource.cache
+C:\Users\m_fil\Desktop\EMailCheck\obj\Debug\EMailCheck.csproj.CoreCompileInputs.cache
+C:\Users\m_fil\Desktop\EMailCheck\obj\Debug\EMailCheck.exe
+C:\Users\m_fil\Desktop\EMailCheck\obj\Debug\EMailCheck.pdb
